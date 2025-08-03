@@ -1,5 +1,3 @@
-# 
-
 <h2 align="center"><u>bash-pull-weblogs</u></h2>
 
 <p align="center">
